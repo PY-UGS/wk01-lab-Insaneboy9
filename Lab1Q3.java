@@ -2,7 +2,7 @@ package com.daryl;
 
 import java.util.Scanner;
 
-public class Q3 {
+public class Lab1Q3 {
     public static void main(String[] args) {
         System.out.println("Enter Module Code:");
         Scanner scanf = new Scanner(System.in);
